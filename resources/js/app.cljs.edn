@@ -1,0 +1,2 @@
+{:require  [card-games.app]
+ :init-fns [card-games.app/init]}
